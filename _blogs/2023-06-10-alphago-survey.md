@@ -3,10 +3,8 @@ title: 文献综述：AlphaGo系列文章调研
 date: 2023-06-10
 layout: blog
 tags:
-  - AlphaGo
   - RL
   - Survey
-  - Chinese
 intro: 本文系统梳理了AlphaGo家族算法的原理、变革演进及扩展应用，涵盖AlphaGo到MuZero的发展主线及落地案例。
 ---
 

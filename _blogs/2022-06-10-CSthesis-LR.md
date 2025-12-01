@@ -4,9 +4,9 @@ title: 从0开始看懂PPO
 date: 2022-06-10
 permalink: /blogs/2022-06/ppo-intro/
 tags:
-  - Chinese
-  - Research
   - RL
+  - Chinese
+  - Notes
 intro: 简明介绍强化学习基础与PPO核心思想。
 ---
 

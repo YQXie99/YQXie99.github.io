@@ -5,7 +5,6 @@ date: 2021-11-22
 permalink: /blogs/2021-11-22/Romeo-and-Juliet/
 intro: 大一暑假的莎剧小学期改编作品，演出效果非常好，剧组拿了很多奖，也包括最佳编剧（笑）。几乎全部照搬原文。
 tags:
-  - English
   - Drama
 ---
 
